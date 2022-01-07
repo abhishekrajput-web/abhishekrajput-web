@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Website](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Website](https://abhishekrajput-web.github.io/fitness-path/)**
 
 - 🌱 I’m currently learning **React.js Node express And MongodDB.**
 
