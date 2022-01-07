@@ -1,9 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://www.transparentpng.com/thumb/web-development/web-development-free-cut-out-3.png"/></a>
 
-<h1 align="center">Hi <img src="https://i.gifer.com/4Snm.gif" width="45px">, I'm Abhishek</h1>
+<h1 align="center">Hi <img src="img:src="https://c.tenor.com/m5N-6BXkkmwAAAAi/rafs84-rafsdesign.gif" width="45px">, I'm Abhishek</h1>
 <h3 style="margin-bottom:30px" align="center">I'm a passionate Frontend Web Developer From India And Learning Full Stack Development.</h3>
-
-
+    
 <div style="margin-bottom:40px">
 
 ## 🙋‍♂️ About Me
