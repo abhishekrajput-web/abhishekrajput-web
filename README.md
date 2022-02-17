@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Website](https://abhishekrajput-web.github.io/fitness-path/)**
+- 🔭 I’m currently working on **[Website](https://abhishekrajput-web.github.io/my-game-site-/)**
 
 - 🌱 I’m currently learning **React.js Node express And MongodDB.**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/abhishekrajput-web)**
 
-- 📫 How to reach me **abhishekrajput@gmail.com**
+- 📫 How to reach me **abhishekrajputcr7@gmail.com**
 
 - ⚡ Hobbies And Interest :  **I Like To play Football , Computer Games and Watching Anime Series.**
 
