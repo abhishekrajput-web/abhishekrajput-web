@@ -1,5 +1,5 @@
-<h1 style="font-weight:bold;text-align:center;">Hi👋, I'm   <a href="https://github.io/abhishekrajput-web">Abhishek</a> </h1>
-<h2 style="margin-bottom:30px;text-align:center;">A passionate Web Developer From India </h2>
+<h1 style="font-weight:bold;text-align:center;" align="center">Hi👋, I'm   <a href="https://github.io/abhishekrajput-web">Abhishek</a> </h1>
+<h2 style="margin-bottom:30px;text-align:center;" align="center">A passionate Web Developer From India </h2>
     
 <div style="margin-bottom:40px">
 
@@ -85,15 +85,15 @@
  
 ## 👷‍♂️ My Work & Projects:
 
-<div style="display:flex;gap:20px;margin:30px 0px">
+<div style="margin:30px 0px">
 <a href="https://my-game-website.netlify.app/">
-<img style="width:100%;height:100%" src="https://i.imgur.com/218d79W.jpgg">
+<img style="" src="https://i.imgur.com/218d79W.jpg">
 </a>
 <a href="https://e-web-commerce.netlify.app/">
-<img style="width:100%;height:100%" src="https://i.imgur.com/U3QfCcc.jpg">
+<img style="" src="https://i.imgur.com/U3QfCcc.jpg">
 </a>
 <a href="https://react-web-movie.netlify.app/">
-<img style="width:100%;height:100%" src="https://i.imgur.com/hNQvzAD.jpg">
+<img style="" src="https://i.imgur.com/hNQvzAD.jpg">
 </a>
 </div>
 
