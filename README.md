@@ -83,7 +83,7 @@
 
 <div>
 <a href = "https://www.linkedin.com/in/abhishek-rajput7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="abhishekrajputweb" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV.to" style="width:50px;height:40px;margin-bottom:2px"></a>
+<a href="https://dev.to/abhishekrajputweb" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV.to" style="width:50px;height:40px;margin-bottom:2px"></a>
 <a href="https://codepen.io/Abhi7raj"><img src="https://img.icons8.com/ios-filled/44/ffffff/codepen.png"/></a>
 <a href = "https://twitter.com/Abhishe67477825"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
