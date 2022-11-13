@@ -1,15 +1,13 @@
-<a href="#"><img width="100%" height="auto" src="https://www.transparentpng.com/thumb/web-development/web-development-free-cut-out-3.png"/></a>
-
-<h1 align="center">Hi <img style="" src="https://c.tenor.com/LBPy4Qb-IRQAAAAM/excuse-me-what-emoji.gif" width="45px"> I'm Abhishek</h1>
-<h3 style="margin-bottom:30px" align="center">I'm a passionate Frontend Web Developer From India And Learning Full Stack Development.</h3>
+<h1 style="font-weight:bold;text-align:center;">Hi👋, I'm   <a href="https://github.io/abhishekrajput-web">Abhishek</a> </h1>
+<h2 style="margin-bottom:30px;text-align:center;">A passionate Web Developer From India </h2>
     
 <div style="margin-bottom:40px">
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Website](https://abhishekrajput-web.github.io/my-game-site-/)**
+- 🔭 I’m currently working on **[React Website](https://react-fitness-web.netlify.app/)**
 
-- 🌱 I’m currently learning **React.js Node express And MongodDB.**
+- 🌱 I’m currently learning **React.js Node and  express.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -17,13 +15,17 @@
 
 - 📫 How to reach me **abhishekrajputcr7@gmail.com**
 
-- ⚡ Hobbies And Interest :  **I Like To play Football , Computer Games and Watching Anime Series.**
+- ⚡ Hobbies And Interest :  **I Like To play Football , Computer Games and creating small web apps**
+
+- 🌛 Fun Fact :  **I Like To Watch Anime Series.**
+
+- 📓 My Resume : **[My Resume](https://drive.google.com/file/d/1ltKMdESskqWKrreL3RteuWpw-e2RCdrk/view?usp=sharing)**
 
 </div>
 
 ## 🚀 Languages and Tools:
 
-<div align="center"> 
+<div style="text-align:left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -32,25 +34,17 @@
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://jquery.com" target="_blank">
- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
-    </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
       <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="postman" width="45" height="45"/> </a>   
         <a href="https://postman.com"
         target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png" alt="postman" width="45" height="45"/> </a>  
-<!--     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
 </div>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
+<p style="text-align:left">
     <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Rajput Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrajput-web&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -73,13 +67,138 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/abhishek-rajput-58b5811a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+## 🔰 Connect with me:
+<div style="margin:30px 0px">
+<a href = "https://www.linkedin.com/in/abhishek-rajput7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="abhishekrajputweb" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV.to" style="width:50px;height:40px;margin-bottom:2px"></a>
+<a href="https://codepen.io/Abhi7raj"><img src="https://img.icons8.com/ios-filled/44/ffffff/codepen.png"/></a>
+<a href = "https://twitter.com/Abhishe67477825"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UCioHnhJIVj82Uynvk2hs5jQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://dribbble.com/abhishek-web">
+<img src="https://img.icons8.com/glyph-neue/48/FA669A/dribbble.png"/>
+<a href="https://pixabay.com/users/abhishekrajputcr7-21621732/">
+<img src="https://img.icons8.com/color/46/null/pixabay.png"/>
+</a>
+</div>
 
+ 
+## 👷‍♂️ My Work & Projects:
+
+<div style="display:flex;gap:20px;margin:30px 0px">
+<a href="https://my-game-website.netlify.app/">
+<img style="width:100%;height:100%" src="https://i.imgur.com/218d79W.jpgg">
+</a>
+<a href="https://e-web-commerce.netlify.app/">
+<img style="width:100%;height:100%" src="https://i.imgur.com/U3QfCcc.jpg">
+</a>
+<a href="https://react-web-movie.netlify.app/">
+<img style="width:100%;height:100%" src="https://i.imgur.com/hNQvzAD.jpg">
+</a>
+</div>
+
+<div style="display:flex;margin:40px 0px;gap:20px">
+<a href="https://e-web-learnings.netlify.app/">
+<img style="width:100%;height:100%" src="https://i.imgur.com/Pp3PcTV.jpg">
+</a>
+<a href="https://react-fitness-web.netlify.app/">
+<img style="width:100%;height:100%" src="https://i.imgur.com/PwIfi4n.png">
+</a>
+<a href="https://my-web-blog.netlify.app/">
+<img style="width:100%;height:100%" src="
+https://i.imgur.com/WaEgnvX.jpg">
+</a>
+</div>
+
+## 🥉 My Certifications And Liscense:
+
+<div style="display:flex;justify-content:space-between;margin:40px 0px;gap:20px;">
+<a href="https://coursera.org/share/8620d99a2cfc9a9a0705efce3232c98">
+<img style="width:100%;height:100%" src="
+https://i.imgur.com/VSPkh2a.png">
+</a>
+<a href="https://www.udemy.com/certificate/UC-e274f32e-38ee-417c-9a6d-df438ba1703d/">
+<img style="width:100%;height:100%" src="
+https://i.imgur.com/n6Mff7x.png">
+</a>
+<a href="https://drive.google.com/file/d/15sndDgxCY-TNR3QwgDkmBFOEmoMGbJpb/view?usp=sharing">
+<img style="width:100%;height:100%" src="
+https://i.imgur.com/hWNKukW.png">
+</a>
+</div>
+
+<div style="display:flex;justify-content:space-between;margin:40px 0px;gap:20px;">
+<a href="https://drive.google.com/file/d/1ELxH11Ey_GckN2MA_kV0xc8Ou3lYecKN/view?usp=sharing">
+<img style="width:100%;height:100%" src="
+https://i.imgur.com/NDeub5d.png">
+</a>
+<a href="https://coursera.org/share/18a8fa1eda94ef66d0b6d8c59b0c9c6b">
+<img style="width:100%;height:100%" src="
+https://i.imgur.com/WQsKxz6.jpg">
+</a>
+<a href="https://www.udemy.com/certificate/UC-89a3eeee-5980-470f-a4d5-c12c2d32a52d/">
+<img style="width:100%;height:100%" src="
+https://i.imgur.com/zmr7ylH.png">
+</a>
+</div>
+
+
+## 🗞️ My Education & Qualifications :
+<div style="display:flex;flex-direction:column;gap:10px;margin-top:20px">
+<p>
+<strong>
+2017 - 2018 : 
+</strong>
+K.V.NO 2 gwalior
+<p><strong>School Board
+</strong> : CBSE - Central Board of Secondary Education</p>
+<p><strong>Class
+</strong> :10 <sup>th</sup> higher secondary</p>
+<p><strong>CGPA
+</strong> :8.1</p>
 </p>
+
+<p>
+<strong>
+2019 - 2020 : 
+</strong>
+K.V.NO 2 gwalior
+<p><strong>School Board
+</strong> : CBSE - Central Board of Secondary Education</p>
+<p><strong>Class
+</strong> :12 <sup>th</sup> higher secondary</p>
+<p><strong>CGPA
+</strong> :7.7</p>
+</p>
+
+<p>
+<strong>
+2020 - 2023 : 
+</strong>
+Optimus College Of Higher Studies gwalior
+<p><strong>School Board
+</strong> :Jiwaji University</p>
+<p><strong>Degree
+</strong> :Bachelor Of Computer Applications (BCA)</p>
+
+</div>
+
+
+<div style="text-align:center;margin-top:40px;background:#000;padding:50px">
+<h3> Thanks For Visiting My Gitub Profile 👋<h3>
+
+<p >if You Have Any question Regarding Web Dev Let Know If I Can Help You.</p>
+
+<a href = "https://www.linkedin.com/in/abhishek-rajput7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="abhishekrajputweb" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV.to" style="width:50px;height:40px;margin-bottom:2px"></a>
+<a href="https://codepen.io/Abhi7raj"><img src="https://img.icons8.com/ios-filled/44/ffffff/codepen.png"/></a>
+<a href = "https://twitter.com/Abhishe67477825"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCioHnhJIVj82Uynvk2hs5jQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://dribbble.com/abhishek-web">
+<img src="https://img.icons8.com/glyph-neue/48/FA669A/dribbble.png"/>
+<a href="https://pixabay.com/users/abhishekrajputcr7-21621732/">
+<img src="https://img.icons8.com/color/46/null/pixabay.png"/>
+</a>
+</div>
 
