@@ -22,7 +22,7 @@
 
 - 🌛 Fun Fact :  **I Like To Watch Anime Series.**
 
-- 📓 Know More About Me : **[My Resume](https://drive.google.com/file/d/1ltKMdESskqWKrreL3RteuWpw-e2RCdrk/view?usp=sharing)**
+- 📓 Know More About Me : **[My Resume](https://drive.google.com/file/d/19als8P7IgyQ9eZAXPt0dNTkLWosdF7Qb/view?usp=sharing)**
 </div>
 
 </br>
