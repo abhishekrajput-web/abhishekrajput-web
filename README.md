@@ -1,4 +1,4 @@
-<h1 style="font-weight:bold;" align="center">Hi👋, I'm   <a href="https://github.io/abhishekrajput-web">Abhishek</a> </h1>
+<h1 style="font-weight:bold;" align="center">Hi👋, I'm   <a href="https://github.com/abhishekrajput-web">Abhishek</a> </h1>
 <h2 align="center">A passionate Web Developer From India </h2>
 </br>
 </br>
