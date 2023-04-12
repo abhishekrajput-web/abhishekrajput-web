@@ -102,22 +102,22 @@
 
 <div>
 <a href="https://my-game-website.netlify.app/">
-<img src="https://i.imgur.com/8lfgzLX.jpg" width=160> &nbsp; 
+<img src="https://i.imgur.com/8lfgzLX.jpg" width="30%"> 
 </a>
 <a href="https://e-web-commerce.netlify.app/">
-<img src="https://i.imgur.com/U3QfCcc.jpg" width=160> &nbsp; 
+<img src="https://i.imgur.com/U3QfCcc.jpg" width=30%;> 
 </a>
 <a href="https://react-web-movie.netlify.app/">
-<img src="https://i.imgur.com/hNQvzAD.jpg" width=160> &nbsp; 
+<img src="https://i.imgur.com/hNQvzAD.jpg" width=30%;>
 </a>
 <a href="https://e-web-learnings.netlify.app/">
-<img src="https://i.imgur.com/q8zZ5Ms.jpg" width=160> &nbsp; 
+<img src="https://i.imgur.com/q8zZ5Ms.jpg" width=30%;>
 </a>
 <a href="https://react-fitness-web.netlify.app/">
-<img src="https://i.imgur.com/PwIfi4n.png" width=160> &nbsp; 
+<img src="https://i.imgur.com/PwIfi4n.png" width=30%;>
 </a>
 <a href="https://my-web-blog.netlify.app/">
-<img src="https://i.imgur.com/WaEgnvX.jpg" width=160> &nbsp; 
+<img src="https://i.imgur.com/WaEgnvX.jpg" width=30%>
 </a>
 </div>
 </br>
@@ -127,70 +127,23 @@
 </br>
 <div>
 <a href="https://coursera.org/share/8620d99a2cfc9a9a0705efce3232c98">
-<img src="https://i.imgur.com/VSPkh2a.png" width=160> &nbsp; 
+<img src="https://i.imgur.com/VSPkh2a.png" width=30%>
 </a>
 <a href="https://www.udemy.com/certificate/UC-e274f32e-38ee-417c-9a6d-df438ba1703d/">
-<img src="https://i.imgur.com/n6Mff7x.png" width=160> &nbsp; 
+<img src="https://i.imgur.com/n6Mff7x.png" width=30%>
 </a>
 <a href="https://drive.google.com/file/d/15sndDgxCY-TNR3QwgDkmBFOEmoMGbJpb/view?usp=sharing">
-<img src="https://i.imgur.com/hWNKukW.png" width=160> &nbsp; 
+<img src="https://i.imgur.com/hWNKukW.png" width=30%>
 </a>
 <a href="https://drive.google.com/file/d/1ELxH11Ey_GckN2MA_kV0xc8Ou3lYecKN/view?usp=sharing">
-<img src="https://i.imgur.com/NDeub5d.png" width=160> &nbsp; 
+<img src="https://i.imgur.com/NDeub5d.png" width=30%> 
 </a>
 <a href="https://coursera.org/share/18a8fa1eda94ef66d0b6d8c59b0c9c6b">
-<img src="https://i.imgur.com/tIn2sRJ.jpg" width=160> &nbsp; 
+<img src="https://i.imgur.com/tIn2sRJ.jpg" width=30%> 
 </a>
 <a href="https://www.udemy.com/certificate/UC-89a3eeee-5980-470f-a4d5-c12c2d32a52d/">
-<img src="https://i.imgur.com/zmr7ylH.png" width=160> &nbsp; 
+<img src="https://i.imgur.com/zmr7ylH.png" width=30%>; 
 </a>
-</div>
-</br>
-
-## 🗞️ My Education & Qualifications :
-</br>
-
-<div>
-<p>
-<strong>
-2017 - 2018 : 
-</strong>
-K.V.NO 2 gwalior
-<p><strong>School Board
-</strong> : CBSE - Central Board of Secondary Education</p>
-<p><strong>Class
-</strong> :10 <sup>th</sup> higher secondary</p>
-<p><strong>CGPA
-</strong> :8.1</p>
-</p>
-</br>
-
-
-<p>
-<strong>
-2019 - 2020 : 
-</strong>
-K.V.NO 2 gwalior
-<p><strong>School Board
-</strong> : CBSE - Central Board of Secondary Education</p>
-<p><strong>Class
-</strong> :12 <sup>th</sup> higher secondary</p>
-<p><strong>CGPA
-</strong> :7.7</p>
-</p>
-</br>
-
-
-<p>
-<strong>
-2020 - 2023 : 
-</strong>
-Optimus College Of Higher Studies gwalior
-<p><strong>School Board
-</strong> :Jiwaji University</p>
-<p><strong>Degree
-</strong> :Bachelor Of Computer Applications (BCA)</p>
-
 </div>
 
 </br>
