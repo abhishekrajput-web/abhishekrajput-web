@@ -45,21 +45,49 @@
 <a href="https://react-youtube-app-clone.netlify.app">
 <img src="https://i.imgur.com/mMPoUP7.jpg" width="30%"> 
 </a>
-<a href="https://songs-search-app.netlify.app">
-<img src="https://i.imgur.com/n0qOi5q.jpg" width=30%;> 
-</a>
-<a href="https://film-relic.netlify.app">
-<img src="https://i.imgur.com/wJngou5.jpg" width=30%;>
-</a>
-<a href="https://react-gym-exercises-app.netlify.app">
-<img src="https://i.imgur.com/cBeesua.jpg" width=30%;>
+<a href="https://films-relic.netlify.app">
+<img src="https://imgur.com/9HeqeOH.jpg" width="30%"> 
 </a>
 <a href="https://shopnow-e-commerce-website.netlify.app">
 <img src="https://i.imgur.com/VJTvCip.jpg" width=30%;>
 </a>
+<a href="https://songs-search-app.netlify.app">
+<img src="https://i.imgur.com/n0qOi5q.jpg" width=30%;> 
+</a>
+<a href="https://gym-management-system7.netlify.app/">
+<img src="https://imgur.com/8geejOS.jpg" width=30%;> 
+</a>
+<!-- <a href="https://film-relic.netlify.app">
+<img src="https://i.imgur.com/wJngou5.jpg" width=30%;>
+</a> -->
+<!-- <a href="https://react-gym-exercises-app.netlify.app">
+<img src="https://i.imgur.com/cBeesua.jpg" width=30%;>
+</a> -->
+
 <a href="https://responsive-game-website.netlify.app">
 <img src="https://i.imgur.com/vP62BaX.jpg" width=30%>
 </a>
+</div>
+
+</br>
+
+<h3 align="left">Awards And Achievements:</h3>
+<!-- ## 👷‍♂️ My Work & Projects: -->
+
+<div>
+<a href="https://drive.google.com/file/d/1sL117fR_mdHzhvCkO6GCH48im-Nmn_mW/view?usp=sharing">
+<img src="https://imgur.com/bavQxGS.jpg" width="30%"> 
+</a>
+<a href="https://drive.google.com/file/d/1AneSmPoLcnR6TEG5HcX7hYKN_htyWUHp/view?usp=sharing">
+<img src="https://imgur.com/BQJlEER.jpg" width=30%;> 
+</a>
+<a href="https://drive.google.com/file/d/1yHUPF5mBfso2n5cz9TcNbR8J5pW7Y8U2/view?usp=sharing">
+<img src="https://imgur.com/GkRM8BB.jpg" width=30%;>
+</a>
+<a href="https://drive.google.com/file/d/1mIxrOflzj9Eb1td_zzuL_wQCcD64gtqA/view?usp=sharing">
+<img src="https://imgur.com/06LJoDK.jpg" width=30%;>
+</a>
+  
 </div>
 
 </br>
