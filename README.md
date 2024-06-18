@@ -1,104 +1,45 @@
-<h1 style="font-weight:bold;" align="center">Hi👋, I'm   <a href="https://abhishekrajput-web.github.io/my-portfolio/">Abhishek</a> </h1>
-<h2 align="center">A passionate Web Developer From India </h2>
+<h1 align="center">Hi 👋, I'm Abhishek Rajput</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 </br>
-</br>
 
-    
-<div>
+- 🔭 I’m currently working on [mern stack project](https://gym-management-system7.netlify.app/)
 
-## 🙋‍♂️ About Me
+- 🌱 I’m currently learning **mysql, react js, redux**
 
-- 🔭 I’m currently working on **[React Website](https://react-fitness-web.netlify.app/)**
+- 👯 I’m looking to collaborate on [frontened projects](https://films-relic.netlify.app/)
 
-- 🌱 I’m currently learning **React.js Node and  express.**
+- 🤝 I’m looking for help with **backened projects**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👨‍💻 All of my projects are available at [https://my-portfolio-7.netlify.app/](https://my-portfolio-7.netlify.app/)
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/abhishekrajput-web)**
+- 📝 I regularly write articles on [https://dev.to/abhishekrajputweb](https://dev.to/abhishekrajputweb)
+
+- 💬 Ask me about **html, css, js, react and much more..**
 
 - 📫 How to reach me **abhishekrajputcr7@gmail.com**
 
-- ⚡ Hobbies And Interest :  **I Like To play Football , Computer Games and creating small web apps**
-
-- 🌛 Fun Fact :  **I Like To Watch Anime Series.**
-
-- 📓 Know More About Me : **[My Resume](https://drive.google.com/file/d/19als8P7IgyQ9eZAXPt0dNTkLWosdF7Qb/view?usp=sharing)**
-</div>
+- ⚡ Fun fact **I Like To Watch Anime Series**
 
 </br>
-</br>
 
-
-## 🚀 Languages and Tools:
-</br>
-
-<div > 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://sass.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-      <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="postman" width="45" height="45"/> </a>   
-        <a href="https://postman.com"
-        target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png" alt="postman" width="45" height="45"/> </a>  
-</div>
-
-<br/>
-</br>
-
-
-<p>
-    <a href="#">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Rajput Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrajput-web&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/abhi7raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhi7raj" height="30" width="40" /></a>
+<a href="https://dev.to/abhishekrajputweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhishekrajputweb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-rajput7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-rajput7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16948535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16948535" height="30" width="40" /></a>
+<a href="https://codesandbox.com/abhishekrajput-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishekrajput-web" height="30" width="40" /></a>
 </p>
 
 </br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="#"><img alt="Abhishek Rajput Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekrajput-web&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="#"><img alt="Abhishek Rajput Top Languages Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrajput-web&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="#"><img alt="Abhishek Rajput Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishekrajput-web&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## 🔰 Connect with me:
 </br>
 
-<div>
-<a href = "https://www.linkedin.com/in/abhishek-rajput7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://dev.to/abhishekrajputweb" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV.to" style="width:50px;height:40px;margin-bottom:2px"></a>
-<a href="https://codepen.io/Abhi7raj"><img src="https://img.icons8.com/ios-filled/44/ffffff/codepen.png"/></a>
-<a href = "https://twitter.com/Abhishe67477825"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCioHnhJIVj82Uynvk2hs5jQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://dribbble.com/abhishek-web">
-<img src="https://img.icons8.com/glyph-neue/48/FA669A/dribbble.png"/>
-<a href="https://pixabay.com/users/abhishekrajputcr7-21621732/">
-<img src="https://img.icons8.com/color/46/null/pixabay.png"/>
-</a>
-</div>
-</br>
-
- 
-## 👷‍♂️ My Work & Projects:
-</br>
+<h3 align="left">My Work & Projects:</h3>
+<!-- ## 👷‍♂️ My Work & Projects: -->
 
 <div>
 <a href="https://react-youtube-app-clone.netlify.app">
@@ -120,11 +61,12 @@
 <img src="https://i.imgur.com/vP62BaX.jpg" width=30%>
 </a>
 </div>
+
 </br>
 
 
-## 🥉 My Certifications And Liscense:
-</br>
+<h3 align="left"> My Certifications And Liscense:</h3>
+<!-- ## 🥉 My Certifications And Liscense: -->
 <div>
 <a href="https://coursera.org/share/8620d99a2cfc9a9a0705efce3232c98e">
 <img src="https://i.imgur.com/VSPkh2a.png" width=30%>
@@ -147,25 +89,11 @@
 </div>
 
 </br>
-</br>
 
+<h3 align="left"> My Github Stats:</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrajput-web&show_icons=true&locale=en&layout=compact" alt="abhishekrajput-web" /></p>
 
-<div align="center">
-<h3> Thanks For Visiting My Gitub Profile 👋<h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrajput-web&show_icons=true&locale=en" alt="abhishekrajput-web" /></p>
 
-<p >if You Have Any question Regarding Web Dev Let Know If I Can Help You.</p>
-
-<a href = "https://www.linkedin.com/in/abhishek-rajput7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="abhishekrajputweb" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV.to" style="width:50px;height:40px;margin-bottom:2px"></a>
-<a href="https://codepen.io/Abhi7raj"><img src="https://img.icons8.com/ios-filled/44/ffffff/codepen.png"/></a>
-<a href = "https://twitter.com/Abhishe67477825"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCioHnhJIVj82Uynvk2hs5jQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://dribbble.com/abhishek-web">
-<img src="https://img.icons8.com/glyph-neue/48/FA669A/dribbble.png"/>
-<a href="https://pixabay.com/users/abhishekrajputcr7-21621732/">
-<img src="https://img.icons8.com/color/46/null/pixabay.png"/>
-</a>
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrajput-web&" alt="abhishekrajput-web" /></p>
