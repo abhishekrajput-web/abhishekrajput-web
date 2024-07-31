@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [mern stack project](https://gym-management-system7.netlify.app/)
 
-- 🌱 I’m currently learning **mysql, react js, redux**
+- 🌱 I’m currently learning **mysql, react js**
 
 - 👯 I’m looking to collaborate on [frontened projects](https://films-relic.netlify.app/)
 
