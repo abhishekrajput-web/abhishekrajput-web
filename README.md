@@ -54,8 +54,8 @@
 <a href="https://songs-search-app.netlify.app">
 <img src="https://i.imgur.com/n0qOi5q.jpg" width=30%;> 
 </a>
-<a href="https://gym-management-system7.netlify.app/">
-<img src="https://imgur.com/8geejOS.jpg" width=30%;> 
+<a href="https://gym-master-7.netlify.app/">
+<img src="https://github.com/user-attachments/assets/9d88a7eb-c660-49f5-841a-b05e5c33a7dd" width=30%;> 
 </a>
 <!-- <a href="https://film-relic.netlify.app">
 <img src="https://i.imgur.com/wJngou5.jpg" width=30%;>
