@@ -49,14 +49,15 @@
 <img src="https://i.imgur.com/VJTvCip.jpg" width=30%;>
 </a>
 <a href="https://films-relic.netlify.app">
-<img src="https://imgur.com/9HeqeOH.jpg" width="30%"> 
-</a>
-<a href="https://songs-search-app.netlify.app">
-<img src="https://i.imgur.com/n0qOi5q.jpg" width=30%;> 
+<img src="https://github.com/user-attachments/assets/106d0cad-28e6-49cc-90b9-2d4c3f26343a" width="30%"> 
 </a>
 <a href="https://gym-master-7.netlify.app/">
-<img src="https://github.com/user-attachments/assets/9d88a7eb-c660-49f5-841a-b05e5c33a7dd" width=30%;> 
+<img src="https://github.com/user-attachments/assets/5b35d536-3b1a-424d-bd29-f75a8291080e" width=30%;> 
 </a>
+<a href="https://songs-search-app.netlify.app">
+<img src="https://github.com/user-attachments/assets/da0964af-73c8-4840-ba2b-d85b3bbd6da0" width=30%;> 
+</a>
+
 <!-- <a href="https://film-relic.netlify.app">
 <img src="https://i.imgur.com/wJngou5.jpg" width=30%;>
 </a> -->
