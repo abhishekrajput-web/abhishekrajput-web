@@ -66,7 +66,7 @@
 </a> -->
 
 <a href="https://responsive-game-website.netlify.app">
-<img src="https://i.imgur.com/vP62BaX.jpg" width=30%>
+<img src="https://github.com/user-attachments/assets/dfba0000-41be-4497-ab46-dbb7c909097e" width=30%>
 </a>
 </div>
 
