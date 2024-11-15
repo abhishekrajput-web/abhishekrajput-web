@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **backened projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-7.netlify.app/](https://my-portfolio-7.netlify.app/)
+- 👨‍💻 All of my projects are available at [my-personal-portfolio](https://my-personal-portfolio-7.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/abhishekrajputweb](https://dev.to/abhishekrajputweb)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abhishekrajputcr7@gmail.com**
 
-- ⚡ Fun fact **I Like To Watch Anime Series**
+- ⚡ Fun fact **I Like To Learn New Technology**
 
 </br>
 
