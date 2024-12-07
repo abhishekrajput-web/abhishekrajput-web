@@ -70,6 +70,9 @@
 <a href="https://responsive-game-website.netlify.app">
 <img src="https://github.com/user-attachments/assets/dfba0000-41be-4497-ab46-dbb7c909097e" width=30%>
 </a>
+<a href="https://taste-heaven.netlify.app/">
+<img src="https://github.com/user-attachments/assets/0f5115d8-a87f-4707-b1c3-d549485fa9e1" width=30%>
+</a>
 </div>
 
 </br>
