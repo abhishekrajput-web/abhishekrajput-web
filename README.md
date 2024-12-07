@@ -2,17 +2,19 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 </br>
 
-- 🔭 I’m currently working on [mern stack project](https://gym-management-system7.netlify.app/)
+- 🔭 I’m currently working on [Mern Stack Project](https://gym-master-7.netlify.app/)
 
-- 🌱 I’m currently learning **mysql, react js**
+- 🌱 I’m currently learning **node, react js**
 
-- 👯 I’m looking to collaborate on [frontened projects](https://films-relic.netlify.app/)
+- 👯 I’m looking to collaborate on [Frontened Projects](https://films-relic.netlify.app/)
 
 - 🤝 I’m looking for help with **backened projects**
 
-- 👨‍💻 All of my projects are available at [my-personal-portfolio](https://my-personal-portfolio-7.netlify.app/)
+- 👨‍💻 All of my projects are available at [My-Personal-Portfolio](https://my-personal-portfolio-7.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/abhishekrajputweb](https://dev.to/abhishekrajputweb)
+- 📝 I write articles on [Dev.to platform](https://dev.to/abhishekrajputweb)
+
+- 📝 I Regularly Create Small Project on [Codepen Platform](https://codepen.io/Abhi7raj/pen/jOGVzZP)
 
 - 💬 Ask me about **html, css, js, react and much more..**
 
