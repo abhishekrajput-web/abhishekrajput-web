@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Mern Stack Project](https://gym-master-7.netlify.app/)
 
-- 🌱 I’m currently working as an  **MERN Stack Intern @ Praedico Global Research**
+- 🌱 I’m currently working as an  **MERN Stack Developer @ Praedico Global Research**
 
 - 👯 I’m looking to collaborate on [Frontened Projects](https://films-relic.netlify.app/)
 
