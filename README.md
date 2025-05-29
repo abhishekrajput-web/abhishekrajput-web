@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 </br>
 
 - 🚀 Currently looking full-time opportunities as a **MERN Stack Developer** or **Frontend Developer** to contribute to impactful projects and grow as a developer.
