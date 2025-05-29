@@ -2,25 +2,25 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 </br>
 
-- 🔭 I’m currently working on [Mern Stack Project](https://gym-master-7.netlify.app/)
-
-- 🌱 I’m currently working as an  **MERN Stack Developer @ Praedico Global Research**
+- 🚀 Currently looking full-time opportunities as a **MERN Stack Developer** or **Frontend Developer** to contribute to impactful projects and grow as a developer.
+- 🌱 Previously worked as a Part-Time MERN Stack Developer at **Praedico Global Research (1 Year)** 
+- ✅ Recently completed a MERN Stack Internship at **Praedico Global Research (4 Month)**  
 
 - 👯 I’m looking to collaborate on [Frontened Projects](https://films-relic.netlify.app/)
 
-- 🤝 I’m looking for help with **backened projects**
+- 🤝 Looking to contribute to Backend Projects and expand my server-side skills **backened projects**
 
-- 👨‍💻 All of my projects are available at [My-Personal-Portfolio](https://my-personal-portfolio-7.netlify.app/)
+- 👨‍💻  Explore all my projects on [My Personal Portfolio](https://my-personal-portfolio-7.netlify.app/)
 
-- 📝 I write articles on [Dev.to platform](https://dev.to/abhishekrajputweb)
+- 📝 I share dev articles on [Dev.to platform](https://dev.to/abhishekrajputweb)
 
-- 📝 I Regularly Create Small Project on [Codepen Platform](https://codepen.io/Abhi7raj/pen/jOGVzZP)
+- 📝  I regularly create and share mini-projects on [Codepen Platform](https://codepen.io/Abhi7raj/pen/jOGVzZP)
 
-- 💬 Ask me about **html, css, js, react and much more..**
+- 💬  Ask me about  **HTML, CSS, JavaScript, React.js, and MERN stack development..**
 
 - 📫 How to reach me **abhishekrajputcr7@gmail.com**
 
-- ⚡ Fun fact **I Like To Learn New Technology**
+- ⚡ Fun fact **I love learning and building with new technologies**
 
 </br>
 
