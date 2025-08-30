@@ -2,9 +2,11 @@
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 </br>
 
-- 🚀 Currently looking full-time opportunities as a **MERN Stack Developer** or **Frontend Developer** to contribute to impactful projects and grow as a developer.
-- 🌱 Previously worked as a Part-Time MERN Stack Developer at **Praedico Global Research (1 Year)** 
-- ✅ Recently completed a MERN Stack Internship at **Praedico Global Research (4 Month)**  
+- 🚀 Currently working as a **Junior Full Stack Developer**, building modern, scalable, and user-friendly web applications.  
+- 🌱 Always learning and exploring new technologies to stay updated with the latest trends in web development.  
+- 💡 Passionate about solving real-world problems and contributing to impactful projects through clean and efficient code.  
+- 🛠️ Experienced in developing full-stack applications with **React, Node.js, Express.js, and MongoDB**, along with modern UI libraries like **Tailwind CSS** and **Bootstrap**.  
+- 🌍 Open to exciting opportunities where I can grow, collaborate, and make meaningful contributions.  
 
 - 👯 I’m looking to collaborate on [Frontened Projects](https://films-relic.netlify.app/)
 
