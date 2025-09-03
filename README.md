@@ -18,6 +18,8 @@
 
 - 📝  I regularly create and share mini-projects on [Codepen Platform](https://codepen.io/Abhi7raj/pen/jOGVzZP)
 
+- 🤝 I also run a [Telegram Community](https://t.me/+m0LtNJMpBwI3OTFl) 💬 where I share daily jobs, internships, and opportunities. Feel free to join!
+
 - 💬  Ask me about  **HTML, CSS, JavaScript, React.js, and MERN stack development..**
 
 - 📫 How to reach me **abhishekrajputcr7@gmail.com**
@@ -33,8 +35,8 @@
 <a href="https://linkedin.com/in/abhishek-rajput7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-rajput7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16948535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16948535" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhishekrajput-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishekrajput-web" height="30" width="40" /></a>
+<a href="https://t.me/+m0LtNJMpBwI3OTFl" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000" alt="telegram" height="40" width="40" /></a>
 </p>
-
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
