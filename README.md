@@ -20,6 +20,8 @@
 
 - 🤝 I also run a [Telegram Community](https://t.me/+m0LtNJMpBwI3OTFl) 💬 where I share daily jobs, internships, and opportunities. Feel free to join!
 
+- 🌿 In addition, I share **daily nature photos** on my [Pixabay Profile](https://pixabay.com/users/naturebyabhishek-21621732/) 📸 
+
 - 💬  Ask me about  **HTML, CSS, JavaScript, React.js, and MERN stack development..**
 
 - 📫 How to reach me **abhishekrajputcr7@gmail.com**
