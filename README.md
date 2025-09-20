@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 </br>
 
-- 🚀 Currently working as a **Junior Full Stack Developer**, building modern, scalable, and user-friendly web applications.  
 - 🌱 Always learning and exploring new technologies to stay updated with the latest trends in web development.  
 - 💡 Passionate about solving real-world problems and contributing to impactful projects through clean and efficient code.  
 - 🛠️ Experienced in developing full-stack applications with **React, Node.js, Express.js, and MongoDB**, along with modern UI libraries like **Tailwind CSS** and **Bootstrap**.  
